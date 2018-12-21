@@ -1,0 +1,27 @@
+[
+    {
+      "description": "new description",
+      "name": "name",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+      "description": "[DESCRIPTION]",
+      "name": "make",
+      "type": "STRING",
+      "mode": "NULLABLE"
+    },
+    {
+        "description": "[DESCRIPTION]",
+        "name": "make",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "description": "[DESCRIPTION]",
+        "name": "id",
+        "type": "integer",
+        "mode": "NULLABLE"
+    }
+]
+
